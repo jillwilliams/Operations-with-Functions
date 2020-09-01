@@ -1,0 +1,104 @@
+body {
+    margin: 25px 25px;
+    background-image: url("images/orange-clouds.png");
+    background-repeat: repeat;
+    background-position: left top;
+    background-attachment: fixed;
+    font-family: "Shadows Into Light";
+    letter-spacing: 3px;
+    font-size: 2rem;
+    text-shadow: 2px 2px 3px darkgrey;
+    color: white;
+}
+h1 {
+    font-size: 2rem;
+    text-align: center;
+    text-shadow: 2px 2px 3px darkgrey;
+    color: white;
+}
+#div1 {
+    width: 80%;
+    height: auto;
+    margin: 25px 10%;
+    background-image: url("images/blue-clouds.png");
+    background-repeat: repeat;
+    background-position: left top;
+    background-attachment: fixed;
+    font-family: "Shadows Into Light";
+    letter-spacing: 3px;
+    font-size: 2rem;
+    text-shadow: 2px 2px 3px darkgrey;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+#answ1, #answ3, #answ4 {
+    width: 20%;
+    height: 50px;
+    margin: 15px 40%;
+    background-color: lightgrey;
+    font-family: "Shadows Into Light";
+    text-align: center;
+    color: blue;
+    border: 2px blue solid;
+    outline: 2px grey solid;
+    font-size: 2rem;
+}
+#answ2 {
+    width: 30%;
+    height: 50px;
+    margin: 15px 35%;
+    background-color: lightgrey;
+    font-family: "Shadows Into Light";
+    text-align: center;
+    color: blue;
+    border: 2px blue solid;
+    outline: 2px grey solid;
+    font-size: 2rem;
+}
+#myBtn {
+    width: 20%;
+    height: 70px;
+    margin: 15px 40%;
+    background-color: lightgrey;
+    font-family: "Shadows Into Light";
+    text-align: center;
+    color: blue;
+    border: 2px blue solid;
+    outline: 2px grey solid;
+    font-size: 1.5rem;
+    padding: 10px;
+}
+#demo, #demo3, #demo4 {
+    width: 20%;
+    height: 50px;
+    margin: 15px 40%;
+    background-color: lightgrey;
+    font-family: "Shadows Into Light";
+    text-align: center;
+    color: blue;
+    border: 2px blue solid;
+    outline: 2px grey solid;
+    font-size: 1.7rem;
+}
+#demo2 {
+    width: 40%;
+    height: 50px;
+    margin: 15px 30%;
+    background-color: lightgrey;
+    font-family: "Shadows Into Light";
+    text-align: center;
+    color: blue;
+    border: 2px blue solid;
+    outline: 2px grey solid;
+    font-size: 1.7rem;
+}
+iframe {
+    margin: 15px 33%;
+    border: 2px blue solid;
+    outline: 2px grey solid;
+}
+footer {
+    text-align: center;
+    font-size: 1.2rem;
+}
