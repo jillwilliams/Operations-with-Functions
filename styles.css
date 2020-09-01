@@ -20,10 +20,7 @@ h1 {
     width: 80%;
     height: auto;
     margin: 25px 10%;
-    background-image: url("images/blue-clouds.png");
-    background-repeat: repeat;
-    background-position: left top;
-    background-attachment: fixed;
+    background-color: blue;
     font-family: "Shadows Into Light";
     letter-spacing: 3px;
     font-size: 2rem;
